@@ -10,7 +10,7 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 
 ## Secciones de mi sitio
 ![Presentación]("/presentacion.png")
-![Habilidades]("/2.png")
+![Habilidades](\2.png)
 ![Proyectos]("/3.png")
 ![Testimonios]("/4.png")
 ![Footer]("/5.png")
