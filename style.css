@@ -3,7 +3,7 @@
     display: flex;
     justify-content: start;
     align-items: center;
-    background-image: url("/portafolio/imagenes/back.png");
+    background-image: url("/portafolio/back.png");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -17,18 +17,18 @@
 }
 
 #proyecto-1{
-    background-image: url("/portafolio/imagenes/clongugul.png");
+    background-image: url("/portafolio/clongugul.png");
 }
 
 #proyecto-2{
-    background-image: url("/portafolio/imagenes/menuC.png");
+    background-image: url("/portafolio/menuC.png");
 }
 
 #proyecto-3{
-    background-image: url("/portafolio/imagenes/primerP.png");
+    background-image: url("/portafolio/primerP.png");
 }
 #proyecto-4{
-    background-image: url("/portafolio/imagenes/porta.png");
+    background-image: url("/portafolio/porta.png");
 }
 .text-shadow-1 {
     text-shadow: -2px 0px 6px rgba(0, 0, 0, 1);
