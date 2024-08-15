@@ -6,14 +6,14 @@ Fue desarrollado con HTML, CSS y JS con el uso de el framework de UI, Bootstrap 
 
 La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye la presentación de la autora del proyecto.
 
-[Proyecto desplegado (http://127.0.0.1:5500/portafolio/index.html#contacto)](http://127.0.0.1:5500/portafolio/index.html#contacto)
+[Proyecto desplegado (https://portafolio-paolarangel-slyu.vercel.app/)](https://portafolio-paolarangel-slyu.vercel.app/)
 
 ## Secciones de mi sitio
-![Presentación]("portafolio/imagenes/readme/presentacion.png)
-![Habilidades]("portafolio/imagenes/readme/2.png)
-![Proyectos]("portafolio/imagenes/readme/3.png)
-![Testimonios]("portafolio/imagenes/readme/4.png)
-![Footer]("portafolio/imagenes/readme/5.png)
+![Presentación]("portafolio/imagenes/readme/presentacion.png")
+![Habilidades]("portafolio/imagenes/readme/2.png")
+![Proyectos]("portafolio/imagenes/readme/3.png")
+![Testimonios]("portafolio/imagenes/readme/4.png")
+![Footer]("portafolio/imagenes/readme/5.png")
 
 
 ## Tecnologías
