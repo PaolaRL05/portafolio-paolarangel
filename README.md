@@ -9,11 +9,11 @@ La página es responsiva (adaptable a diferentes tamaños de pantalla) e incluye
 [Proyecto desplegado (https://portafolio-paolarangel-slyu.vercel.app/)](https://portafolio-paolarangel-slyu.vercel.app/)
 
 ## Secciones de mi sitio
-![Presentación]("/readme/presentacion.png")
-![Habilidades]("/readme/2.png")
-![Proyectos]("/readme/3.png")
-![Testimonios]("/readme/4.png")
-![Footer]("/readme/5.png")
+![Presentación](/presentacion.png)
+![Habilidades](/2.png)
+![Proyectos](/3.png)
+![Testimonios](/4.png)
+![Footer](/5.png)
 
 
 ## Tecnologías
